@@ -1,0 +1,39 @@
+body{
+	background-image: url("../i244-projekt/pildid/Cinema-Auditorium.jpg");
+    background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#wrap {
+    margin: 10% 25% 0% 25%;
+	width:600px; 
+	background-color: rgba(234, 174, 232, 0.9);
+	border: hidden;
+	border-radius: 15pt;
+	padding: 15px;
+}
+
+#lisa-vorm-vaade {
+    display: none;
+    border: 2px solid blue;
+    padding: 10px;
+	background-color: #b3b3ff;
+	border-radius: 5px;
+}
+
+.appheading{
+	text-decoration: underline;
+	color: Navy;
+	font-family: Arial, Sans-Serif;
+	text-align: center;
+}
+			
+.message{
+	border: 1px solid blue; 
+	background: #EEE;
+}
+
+.logoutbutton{
+	float: right
+}
