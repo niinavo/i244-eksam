@@ -1,8 +1,5 @@
 body{
-	background-image: url("../i244-projekt/pildid/Cinema-Auditorium.jpg");
-    background-attachment:fixed;
-	background-repeat: no-repeat;
-	background-size: 100%;
+    background-color: gray; 
 }
 
 #wrap {
